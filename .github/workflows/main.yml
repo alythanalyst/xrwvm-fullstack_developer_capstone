@@ -1,4 +1,4 @@
-name: Dummy Lint
+name: Lint Code
 
 on:
   push:
